@@ -32,6 +32,7 @@ name= "Suraj Yadav "
 yrExp=1.2
 cmp=10+2j
 stmnt = True
+print ("Data Type of all variable ")
 print(type(rollNo))
 print(type(name))
 print(type(yrExp))
