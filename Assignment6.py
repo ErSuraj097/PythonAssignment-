@@ -1,6 +1,6 @@
+#...............Assignment-6
 #answer-1
 from typing import OrderedDict
-'''
 
 a=int(input("Enter the number : "))
 if a>0:
@@ -31,7 +31,7 @@ elif d==e:
     print("Both are same") 
 else:
     print(e," : 2nd no is greater")       
-'''
+
 #Answer-5
 
 
