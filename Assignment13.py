@@ -1,4 +1,4 @@
-'''#................Assignment-13
+#................Assignment-13
 #..........Answer-1
 li=["Java","Python,","SQL","C"]
 print(li)
@@ -42,7 +42,7 @@ for i in li:
     print(c,". ",i)
 #for i in li:
 print(li[0:6])
-'''
+
 #..............Answer-8
 li=["Java","SQL","C","Reactnative","Javascript","Python"]
 li.sort()
