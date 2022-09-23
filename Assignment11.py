@@ -1,5 +1,5 @@
 #,......................Assignment-11
-'''
+
 #.........................Answer-1
 k= int (input("Enter the number :"))
 s=0
@@ -55,7 +55,6 @@ for i in range(k,0,-1):
         s=s*i
         print(i)
 print("Square of n natural number: ",s)
-'''
 
 #.......................Assignmnet-7
 n=int(input("Enter number:"))
